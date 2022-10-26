@@ -16,9 +16,9 @@ h1 {
   box-shadow:0 0 16px rgba(0,0,0,0.1);
 }
 
-.my-photo {
+.img-radius {
   padding: 50px;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 h2 {
@@ -63,6 +63,9 @@ button {
   color: blue;
 }
 
+.icon-size {
+  width: 100px;
+}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
